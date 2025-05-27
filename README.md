@@ -1,6 +1,6 @@
 # GPT官网 中文版：国内直连镜像网站和使用详细介绍（支持 GPT-4、GPT o1）
 
->更新时间: 2025-03-07
+>更新时间: 2025-05-27
 
 ## 什么是GPT官网 | 中文版？
 
@@ -14,11 +14,8 @@
 
 | 网站或工具 | 地址 | 支持功能 |
 | -------------- | -------------- | -------------- |
-| **E点畅聊**  | [https://www.yixiaai.com](https://www.yixiaai.com)  | GPT-4.0、GPT o1、AI绘画 |
-| **Lify聊天助手** | [https://chat.lify.vip](https://chat.lify.vip) | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 |
-| **电脑客户端** | [下载链接](https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.0_x64_zh-CN.msi) | GPT全系列模型 |
-| **Edge浏览器插件** | [下载链接](https://microsoftedge.microsoft.com/addons/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81%E5%AF%B9%E8%AF%9D%E3%80%81%E5%86%99%E4%BD%9C%E3%80%81%E7%BB%98%E7%94%BB/lmlenkgcieicbnpobkhmpcgmamahahil) | GPT全系列模型 |
-| **Chrome浏览器插件** | [下载链接](https://chromewebstore.google.com/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88ai-%E6%99%BA%E6%85%A7%E5%B2%9B%EF%BC%89/jffjfhngfgcglmjjpakgekefpegmhkll?hl=zh-CN&utm_source=ext_sidebar) | GPT全系列模型 |
+| **E点畅聊**  | [https://xsimplechat.com](https://xsimplechat.com)  | GPT-4.0、GPT o1、AI绘画 |
+| **Lify聊天助手** | [https://chat.lanjing.pro](https://chat.lanjing.pro) | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 |
 | **蓝鲸AI** | [https://guide1.lanjing.ai](https://guide1.lanjing.ai) | GPT全系列模型 |
 
 ## 如何选择合适的平台
@@ -40,11 +37,6 @@
 
 ### 客户端和插件版
 
-对于需要更高效工作流的用户，可以选择以下工具：
-
-- **AI智慧岛客户端**：[下载链接](https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.0_x64_zh-CN.msi)，适用于Windows系统。
-- **Edge浏览器插件**：[下载链接](https://microsoftedge.microsoft.com/addons/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81%E5%AF%B9%E8%AF%9D%E3%80%81%E5%86%99%E4%BD%9C%E3%80%81%E7%BB%98%E7%94%BB/lmlenkgcieicbnpobkhmpcgmamahahil)。
-- **Chrome浏览器插件**：[下载链接](https://chromewebstore.google.com/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88ai-%E6%99%BA%E6%85%A7%E5%B2%9B%EF%BC%89/jffjfhngfgcglmjjpakgekefpegmhkll?hl=zh-CN&utm_source=ext_sidebar)。
 
 ## 常见问题解答
 
