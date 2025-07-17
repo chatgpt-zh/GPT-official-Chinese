@@ -1,6 +1,6 @@
 # GPT官网 中文版：国内直连镜像网站和使用详细介绍（支持 GPT-4、GPT o1）
 
->更新时间: 2025-05-27
+>更新时间: 2025-07-18
 
 ## 什么是GPT官网 | 中文版？
 
@@ -15,8 +15,8 @@
 | 网站或工具 | 地址 | 支持功能 |
 | -------------- | -------------- | -------------- |
 | **E点畅聊**  | [https://xsimplechat.com](https://xsimplechat.com)  | GPT-4.0、GPT o1、AI绘画 |
-| **Lify聊天助手** | [https://chat.lanjing.pro](https://chat.lanjing.pro) | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 |
-| **蓝鲸AI** | [https://guide1.lanjing.ai](https://guide1.lanjing.ai) | GPT全系列模型 |
+| **Lify聊天助手** | [https://chat.lanjingai.org](https://chat.lanjingai.org) | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 |
+| **蓝鲸AI** | [https://guide1.chat.lanjingai.org](https://guide1.chat.lanjingai.org) | GPT全系列模型 |
 
 ## 如何选择合适的平台
 
