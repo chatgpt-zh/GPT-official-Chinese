@@ -199,7 +199,7 @@
             <h2>年 最新的 ChatGPT 中文版。</h2>
             <h2>轻松使用上 ChatGPT、DeepSeek、Claude、Grok ~</h2>
             <h3>无需翻墙、无需注册账号~ </h3>
-            <h4 class="update-date">更新日期： 2025-07-21</h4>
+            <h4 class="update-date">更新日期： <span id="current-date"></span></h4>
             <a href="https://xsimplechat.com" target="_self" class="button">开始对话</a>
             <a href="https://chat.lanjingai.org" class="title-button" target="_blank">ChatGPT中文版</a>
         </div>
@@ -361,16 +361,15 @@
     </section>
 
     <script>
-        // 设置当前日期
-        // 此方法并未在页面中实际用到。如果你需要动态显示日期，建议配合 id="current-date" 使用
-        /*
+        // 显示当前日期在更新日期位置
         function setCurrentDate() {
             const now = new Date();
-            const options = { year: 'numeric', month: 'long', day: 'numeric' };
-            document.getElementById('current-date').textContent = now.toLocaleDateString('zh-CN', options);
+            const year = now.getFullYear();
+            const month = String(now.getMonth() + 1).padStart(2, '0');
+            const day = String(now.getDate()).padStart(2, '0');
+            document.getElementById('current-date').textContent = `${year}-${month}-${day}`;
         }
         setCurrentDate();
-        */
 
         const colors = [['#ff0080', '#7928ca'], ['#ff4d4d', '#f9cb28'], ['#7928ca', '#4c88e8'], ['#4c88e8', '#4FE2B1'], ['#ff0080', '#ff7f00']];  
         const randomIndex = Math.floor(Math.random() * colors.length);
