@@ -1,6 +1,6 @@
-# GPT官网 中文版：国内直连镜像网站和使用详细介绍（支持 GPT-4、GPT o1）
+# GPT官网 中文版：国内直连镜像网站和使用详细介绍（支持 GPT-5、GPT o1）
 
->更新时间: 2025-07-26 
+>更新时间: 2025-09-19 
 
 ## 什么是GPT官网 | 中文版？
 
@@ -15,14 +15,13 @@
 | 网站或工具 | 地址 | 支持功能 |
 | -------------- | -------------- | -------------- |
 | **E点畅聊**  | [https://chat.xsimplechat.com](https://chat.xsimplechat.com)  | GPT-4.0、GPT o1、AI绘画 |
-| **Lify聊天助手** | [https://chat.lanjingai.org](https://chat.lanjingai.org) | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 |
-| **蓝鲸AI** | [https://guide1.chat.lanjingai.org](https://guide1.chat.lanjingai.org) | GPT全系列模型 |
+| **Lify聊天助手** | [https://ai.lanjingai.org](https://ai.lanjingai.org) | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 |
 
 ## 如何选择合适的平台
 
 在选择合适的平台时，可以根据以下几个因素考虑：
 
-1. **所需功能**：例如GPT-4、GPT o1或AI绘画等。
+1. **所需功能**：例如GPT-5、GPT o1或AI绘画等。
 2. **使用场景**：是否需要浏览器插件或桌面客户端。
 3. **访问便捷性**：是否支持国内直连，提升使用体验。
 
